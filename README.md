@@ -1,5 +1,6 @@
 ### Welcome 👋
-https://github.com/Udex91/Udex91/blob/main/my%20banner.png
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Udex91&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Udex91&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udex91)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Bede Ogbonna</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
